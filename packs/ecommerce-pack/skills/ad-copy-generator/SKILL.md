@@ -5,6 +5,10 @@ description: Generate ecommerce ad hooks, headlines, primary text, CTA options, 
 
 # Skill: ad-copy-generator
 
+## 中文注释
+
+这个 skill 用于生成电商广告文案，包括 Hook、标题、正文、CTA、不同角度版本和 A/B 测试计划。使用时必须确保 offer、折扣、库存、认证和效果声明真实可验证，不得制造虚假紧迫感、虚假稀缺或无法证明的功效承诺。
+
 ## Purpose
 
 Generate platform-aware ecommerce ad copy variants, including hooks, headlines, primary text, CTAs, angles, and A/B tests.

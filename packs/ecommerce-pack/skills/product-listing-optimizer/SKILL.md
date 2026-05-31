@@ -5,6 +5,10 @@ description: Optimize ecommerce product titles, bullets, descriptions, keywords,
 
 # Skill: product-listing-optimizer
 
+## 中文注释
+
+这个 skill 用于商品 Listing 优化，重点是把用户提供的产品事实转换成标题、卖点、详情描述、关键词、FAQ 和 A/B 测试版本。使用时必须区分“已确认事实”和“推测表达”，不要编造认证、评价、销量、平台审核结果或绝对化承诺。
+
 ## Purpose
 
 Improve ecommerce listing copy by turning product facts into platform-aware titles, benefits, bullets, descriptions, keywords, FAQs, and test variants.

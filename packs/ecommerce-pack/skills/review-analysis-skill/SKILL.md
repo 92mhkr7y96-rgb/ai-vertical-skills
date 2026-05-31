@@ -5,6 +5,10 @@ description: Analyze provided ecommerce review excerpts to extract positive them
 
 # Skill: review-analysis-skill
 
+## 中文注释
+
+这个 skill 用于用户评价分析，只能分析用户提供的好评、差评、中评和竞品评价片段。它适合提炼高频满意点、重复投诉、购买动机、FAQ 和营销角度，但不能编造评价、评分、用户原话、认证或产品声明，也不能诱导刷评。
+
 ## Purpose
 
 Turn provided customer review excerpts into themes, complaints, motivations, improvement ideas, listing changes, ad angles, and FAQs.

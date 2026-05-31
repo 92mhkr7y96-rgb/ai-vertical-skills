@@ -21,12 +21,14 @@ It is designed for Amazon, Shopify, Etsy, TikTok Shop, independent store, and so
 
 ## Core Skills
 
-1. product-positioning-analyzer
-2. competitor-product-analysis
-3. review-analysis-skill
-4. product-listing-optimizer
-5. ad-copy-generator
-6. product-image-brief-generator
+| Skill | 中文说明 | Main Use |
+| --- | --- | --- |
+| [product-positioning-analyzer](skills/product-positioning-analyzer/) | 产品定位分析 | Define target users, motivations, pain points, and selling angles. |
+| [competitor-product-analysis](skills/competitor-product-analysis/) | 竞品产品分析 | Analyze competitor pages, review signals, weaknesses, and opportunities. |
+| [review-analysis-skill](skills/review-analysis-skill/) | 用户评价分析 | Extract themes, complaints, motivations, FAQs, and improvement ideas from provided reviews. |
+| [product-listing-optimizer](skills/product-listing-optimizer/) | 商品 Listing 优化 | Improve titles, bullets, descriptions, keywords, FAQs, and A/B variants. |
+| [ad-copy-generator](skills/ad-copy-generator/) | 广告文案生成 | Generate hooks, headlines, primary text, CTAs, and A/B testing plans. |
+| [product-image-brief-generator](skills/product-image-brief-generator/) | 商品图片 Brief 生成 | Create actionable briefs for main images, lifestyle images, feature images, and A+ content. |
 
 ## Detailed Guides
 

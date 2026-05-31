@@ -5,6 +5,10 @@ description: Analyze competitor ecommerce pages, selling points, pricing signals
 
 # Skill: competitor-product-analysis
 
+## 中文注释
+
+这个 skill 用于竞品产品分析，基于用户提供的竞品标题、价格、卖点、描述、评价片段和图片观察提炼机会。所有结论都应标明来自输入还是合理推测，不能凭空编造竞品数据，也不能复制竞品受保护文案。
+
 ## Purpose
 
 Analyze competitor pages, positioning, selling points, pricing strategy, feedback signals, and opportunities.

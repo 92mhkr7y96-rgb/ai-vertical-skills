@@ -5,6 +5,10 @@ description: Analyze ecommerce product positioning, target customers, buyer moti
 
 # Skill: product-positioning-analyzer
 
+## 中文注释
+
+这个 skill 用于产品定位分析，帮助明确目标用户、购买动机、核心痛点、差异化角度、主卖点和辅助卖点。输出应当为后续 Listing、广告和商品图片提供方向，但不能把未经验证的市场判断、评价、认证、销量或性能数据写成事实。
+
 ## Purpose
 
 Clarify product positioning, target users, buying motivation, pain points, differentiation, and core selling points.

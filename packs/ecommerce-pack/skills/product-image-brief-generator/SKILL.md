@@ -5,6 +5,10 @@ description: Generate ecommerce product image briefs for main images, lifestyle 
 
 # Skill: product-image-brief-generator
 
+## 中文注释
+
+这个 skill 用于生成商品图片设计或拍摄 Brief，覆盖主图、场景图、功能图、尺寸图、对比图、问题解决图和 A+ 内容图。Brief 应能交给设计师或摄影师执行，同时遵守平台图片规则，不添加虚假徽章、认证、评价数量、商标或未经证明的参数。
+
 ## Purpose
 
 Create actionable design and photography briefs for ecommerce product images.
