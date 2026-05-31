@@ -70,4 +70,4 @@ Repeated complaints: handle comfort appears in negative reviews; delicate fabric
 
 ## Safety / Compliance Notes
 
-Do not invent sentiment, ratings, or quotes. Do not ask users to create fake reviews or suppress negative feedback.
+Do not invent sentiment, ratings, quotes, certifications, or product claims. Do not ask users to create fake reviews or suppress negative feedback.

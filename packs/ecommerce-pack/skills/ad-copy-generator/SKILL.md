@@ -75,4 +75,4 @@ Hook option: Plan your week with a printable layout that keeps tasks, habits, an
 
 ## Safety / Compliance Notes
 
-Do not make false urgency, fake scarcity, fake discount, health, legal, financial, or guaranteed performance claims.
+Do not make false urgency, fake scarcity, fake discounts, fake certifications, health, legal, financial, or guaranteed performance claims.

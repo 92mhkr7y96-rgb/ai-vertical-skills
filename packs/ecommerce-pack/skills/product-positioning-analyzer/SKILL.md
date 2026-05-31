@@ -15,7 +15,7 @@ New products, DTC brands, selection teams, and sellers preparing listing, ad, or
 
 ## Not for
 
-Market-size claims, revenue forecasts, legal advice, or unsupported competitor conclusions.
+Market-size claims, revenue forecasts, legal advice, fake reviews, invented product claims, or unsupported competitor conclusions.
 
 ## Input
 
@@ -72,4 +72,4 @@ Primary selling point: everyday hydration that fits commute, gym, and desk routi
 
 ## Safety / Compliance Notes
 
-Separate facts from assumptions. Do not claim certifications, health outcomes, or performance metrics unless supplied.
+Separate facts from assumptions. Do not invent reviews, certifications, health outcomes, sales numbers, or performance metrics unless supplied.
