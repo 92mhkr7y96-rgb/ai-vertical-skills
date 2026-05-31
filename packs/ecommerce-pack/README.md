@@ -28,6 +28,11 @@ It is designed for Amazon, Shopify, Etsy, TikTok Shop, independent store, and so
 5. ad-copy-generator
 6. product-image-brief-generator
 
+## Detailed Guides
+
+- [English Usage Guide](usage-guide.en.md)
+- [中文使用说明](usage-guide.zh-CN.md)
+
 ## Recommended Workflow
 
 ```text

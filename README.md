@@ -13,3 +13,8 @@ Path:
 ```text
 packs/ecommerce-pack/
 ```
+
+Guides:
+
+- [English Usage Guide](packs/ecommerce-pack/usage-guide.en.md)
+- [中文使用说明](packs/ecommerce-pack/usage-guide.zh-CN.md)
